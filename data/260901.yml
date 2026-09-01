@@ -1,0 +1,62 @@
+about:
+  description: `taskwarrior-tui`: A terminal user interface for taskwarrior
+  license: MIT
+  homepage: https://kdheepak.com/taskwarrior-tui
+  head: 0334299
+  archived: false
+  latestVersion: v0.27.0
+  collectedAt: 2026-09-01T04:55:07Z
+timeline:
+  created: 2020-07-22
+  lastCommit: 2026-08-30
+  lastRelease: 2026-04-09
+popularity:
+  star: 2117
+  watcher: 21
+  fork: 110
+  release: 172
+  contributor: 44
+  pullRequest: 63
+  issue: 342
+language:
+  Rust: 385050
+  Shell: 9986
+  Python: 9838
+  Go Template: 5463
+  Roff: 5180
+  PowerShell: 2604
+  Tape: 2090
+totalLine: 420211
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 3
+    openPR: 2
+    closedIssue: 0
+    openIssue: 1
+    commit: 3
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 7
+    openPR: 7
+    closedIssue: 0
+    openIssue: 7
+    commit: 7
+  last180d:
+    since: 2026-03-05
+    release: 8
+    mergedPR: 69
+    openPR: 8
+    closedIssue: 5
+    openIssue: 16
+    commit: 71
+  last360d:
+    since: 2025-09-06
+    release: 10
+    mergedPR: 93
+    openPR: 10
+    closedIssue: 11
+    openIssue: 24
+    commit: 95
