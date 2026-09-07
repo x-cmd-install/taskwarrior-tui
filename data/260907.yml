@@ -5,7 +5,7 @@ about:
   head: 0334299
   archived: false
   latestVersion: "v0.27.0"
-  collectedAt: 2026-09-07T05:03:39Z
+  collectedAt: 2026-09-07T19:25:08Z
 timeline:
   created: 2020-07-22
   lastCommit: 2026-08-30
@@ -85,7 +85,7 @@ total:
   commit: 1552
 ---
 path: /home/runner/.x-repo/github.com/kdheepak/taskwarrior-tui
-collectedAt: 2026-09-07T05:03:40Z
+collectedAt: 2026-09-07T19:25:10Z
 loc:
   Rust:
     code: 10333
@@ -296,7 +296,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:03:41+00:00
+  collectedAt: 2026-09-07T19:25:11+00:00
   platform:
     darwin/arm64:
       name:  taskwarrior-tui-aarch64-apple-darwin.tar.gz
