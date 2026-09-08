@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1828386,
       "digest": "sha256:7498df3d3a9562c81edf45df83fa33aa02e3684b06a9e992647444b2ba94280d",
-      "download_count": 126,
+      "download_count": 127,
       "created_at": "2026-04-09T12:15:38Z",
       "updated_at": "2026-04-09T12:15:39Z",
       "browser_download_url": "https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:9d49231238e6e928aea1326c52d8d4f1450d2ba813d48230a897b61f01551391",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-04-09T12:15:38Z",
       "updated_at": "2026-04-09T12:15:39Z",
       "browser_download_url": "https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-i686-pc-windows-msvc.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1943178,
       "digest": "sha256:8ac868100d5141ed533f1716b4b7232e5ecaeb6756d148ea4d3bb9b259dddf91",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-04-09T12:15:38Z",
       "updated_at": "2026-04-09T12:15:39Z",
       "browser_download_url": "https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-x86_64-apple-darwin.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7532791,
       "digest": "sha256:11656a6c250eb3feaba35133987405ad0e3bc7b48f1b716ab59b70b6f7911974",
-      "download_count": 421,
+      "download_count": 422,
       "created_at": "2026-04-09T12:15:38Z",
       "updated_at": "2026-04-09T12:15:39Z",
       "browser_download_url": "https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-x86_64-unknown-linux-gnu.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 7084720,
       "digest": "sha256:b10a64a977b9b289d79cc292af8b05bc9e8e2efd2b6dd64f0f449337c9c3d530",
-      "download_count": 1189,
+      "download_count": 1192,
       "created_at": "2026-04-09T12:15:38Z",
       "updated_at": "2026-04-09T12:15:39Z",
       "browser_download_url": "https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-x86_64-unknown-linux-musl.tar.gz"
