@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.27.0"
   latestRelease: "v0.27.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:13:24Z
+  collectedAt: 2026-09-09T19:38:14Z
 timeline:
   created: 2020-07-22
   lastCommit: 2026-08-30
@@ -89,7 +89,7 @@ total:
   commit: 1552
 ---
 path: /home/runner/.x-repo/github.com/kdheepak/taskwarrior-tui
-collectedAt: 2026-09-09T05:13:25Z
+collectedAt: 2026-09-09T19:38:16Z
 loc:
   Rust:
     code: 10333
