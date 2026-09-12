@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:4fe61781f2c6c0988045757491a16c52baaec9b4f39fae947529c538966b541c",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-04-09T12:15:38Z",
       "updated_at": "2026-04-09T12:15:38Z",
       "browser_download_url": "https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-x86_64-pc-windows-gnu.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7532791,
       "digest": "sha256:11656a6c250eb3feaba35133987405ad0e3bc7b48f1b716ab59b70b6f7911974",
-      "download_count": 444,
+      "download_count": 445,
       "created_at": "2026-04-09T12:15:38Z",
       "updated_at": "2026-04-09T12:15:39Z",
       "browser_download_url": "https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 4862688,
       "digest": "sha256:626ff8ceaabd1b01729d452770c408079fe65f7aea39db7454552eebf2d89f49",
-      "download_count": 209,
+      "download_count": 210,
       "created_at": "2026-04-09T12:13:34Z",
       "updated_at": "2026-04-09T12:13:34Z",
       "browser_download_url": "https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui.deb"
