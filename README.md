@@ -14,11 +14,11 @@ x install taskwarrior-tui
 
 ## Code insight
 
-Total: **17,386** lines of code across **29** files in the top 5 languages.
+Total: **17,432** lines of code across **29** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,333 | 128 | 791 | 22 |
+| Rust | 10,379 | 130 | 796 | 22 |
 | Json | 6,787 | 0 | 0 | 3 |
 | Bash | 75 | 0 | 3 | 1 |
 | Toml | 54 | 0 | 7 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.0` (2026-04-09)
-- **Last commit**: 2026-08-30
+- **Last commit**: 2026-09-13
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 2,123 · **Forks**: 114 · **Open issues**: 343 · **Contributors**: 44
+- **Stars**: 2,125 · **Forks**: 114 · **Open issues**: 343 · **Contributors**: 45
 
 ## Totals (cumulative)
 
-- **Releases**: 172 · **Merged PRs**: 373 · **Open PRs**: 13 · **Closed issues**: 222 · **Open issues**: 121 · **Commits**: 1552
+- **Releases**: 172 · **Merged PRs**: 376 · **Open PRs**: 10 · **Closed issues**: 222 · **Open issues**: 121 · **Commits**: 1555
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 3 | 0 | 2 | 0 |
-| last60d | 2026-07-15 | 0 | 5 | 3 | 0 | 2 | 0 |
-| 90d | 2026-06-15 | 0 | 7 | 8 | 0 | 8 | 0 |
-| last180d | 2026-03-17 | 8 | 66 | 9 | 5 | 17 | 0 |
-| 360d | 2025-09-18 | 10 | 92 | 11 | 10 | 24 | 0 |
-| last720d | 2024-09-23 | 10 | 100 | 12 | 14 | 43 | 115 |
+| 30d | 2026-08-15 | 0 | 4 | 0 | 0 | 2 | 4 |
+| last60d | 2026-07-16 | 0 | 8 | 0 | 0 | 2 | 6 |
+| 90d | 2026-06-16 | 0 | 10 | 5 | 0 | 8 | 10 |
+| last180d | 2026-03-18 | 8 | 68 | 6 | 5 | 17 | 69 |
+| 360d | 2025-09-19 | 10 | 95 | 8 | 10 | 24 | 98 |
+| last720d | 2024-09-24 | 10 | 103 | 9 | 14 | 43 | 118 |
 
 ## Release assets
 
@@ -86,18 +86,6 @@ Lowest-scoring checks:
 | [taskwarrior-tui-x86_64-unknown-linux-musl.tar.gz](https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-x86_64-unknown-linux-musl.tar.gz) | 6.8 MiB | `native/linux/x64/musl` |
 | [taskwarrior-tui.deb](https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui.deb) | 4.6 MiB | `other` |
 
-## Distribution status
-
-Reported by **25** distros on [repology.org](https://repology.org/project/taskwarrior-tui). **14** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.27.0` | ✅ latest |
-| Homebrew | `0.27.0` | ✅ latest |
-| Nix unstable | `0.27.0` | ✅ latest |
-| Void | `0.25.4` | ⚠️ outdated |
-| Alpine edge | `0.27.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `taskwarrior-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +95,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:23:36Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:46:51Z._
