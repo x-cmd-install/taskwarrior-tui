@@ -4,7 +4,7 @@
 
 `taskwarrior-tui`: A terminal user interface for taskwarrior
 
-![taskwarrior-tui](https://repo.x-cmd.io/taskwarrior-tui.svg)
+[![x-cmd/install — taskwarrior-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/taskwarrior-tui.svg)](https://x-cmd.com/install/taskwarrior-tui)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,128 · **Forks**: 114 · **Open issues**: 344 · **Contributors**: 45
+- **Stars**: 2,131 · **Forks**: 114 · **Open issues**: 344 · **Contributors**: 45
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 0 | 0 | 3 | 4 |
-| last60d | 2026-07-20 | 0 | 6 | 0 | 0 | 3 | 6 |
-| 90d | 2026-06-20 | 0 | 10 | 4 | 0 | 8 | 10 |
-| last180d | 2026-03-22 | 8 | 68 | 6 | 5 | 18 | 69 |
-| 360d | 2025-09-23 | 10 | 95 | 8 | 10 | 25 | 98 |
-| last720d | 2024-09-28 | 10 | 103 | 9 | 14 | 44 | 118 |
+| 30d | 2026-08-21 | 0 | 4 | 0 | 0 | 3 | 4 |
+| last60d | 2026-07-22 | 0 | 6 | 0 | 0 | 3 | 6 |
+| 90d | 2026-06-22 | 0 | 10 | 3 | 0 | 7 | 10 |
+| last180d | 2026-03-24 | 8 | 62 | 6 | 5 | 18 | 40 |
+| 360d | 2025-09-25 | 10 | 95 | 8 | 10 | 25 | 98 |
+| last720d | 2024-09-30 | 10 | 103 | 9 | 14 | 44 | 118 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:24:50Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:30:02Z._
