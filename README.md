@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 172 · **Merged PRs**: 376 · **Open PRs**: 10 · **Closed issues**: 222 · **Open issues**: 122 · **Commits**: 1555
+- **Releases**: 172 · **Merged PRs**: 376 · **Open PRs**: 12 · **Closed issues**: 222 · **Open issues**: 122 · **Commits**: 1555
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 4 | 0 | 0 | 3 | 4 |
-| last60d | 2026-07-22 | 0 | 6 | 0 | 0 | 3 | 6 |
-| 90d | 2026-06-22 | 0 | 10 | 3 | 0 | 7 | 10 |
-| last180d | 2026-03-24 | 8 | 62 | 6 | 5 | 18 | 40 |
-| 360d | 2025-09-25 | 10 | 95 | 8 | 10 | 25 | 98 |
-| last720d | 2024-09-30 | 10 | 103 | 9 | 14 | 44 | 118 |
+| 30d | 2026-08-22 | 0 | 4 | 2 | 0 | 3 | 4 |
+| last60d | 2026-07-23 | 0 | 6 | 2 | 0 | 3 | 6 |
+| 90d | 2026-06-23 | 0 | 10 | 5 | 0 | 7 | 10 |
+| last180d | 2026-03-25 | 6 | 53 | 8 | 5 | 17 | 40 |
+| 360d | 2025-09-26 | 10 | 95 | 10 | 10 | 25 | 98 |
+| last720d | 2024-10-01 | 10 | 103 | 11 | 14 | 44 | 118 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:30:02Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:34:40Z._
