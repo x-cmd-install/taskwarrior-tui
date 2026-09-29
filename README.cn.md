@@ -26,13 +26,13 @@ x install taskwarrior-tui
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.1 / 10**
+总评分: **4.2 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install taskwarrior-tui
 
 ## 流行度
 
-- **Star**: 2,132 · **Fork**: 116 · **开放 issue**: 344 · **贡献者**: 46
+- **Star**: 2,133 · **Fork**: 116 · **开放 issue**: 344 · **贡献者**: 46
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install taskwarrior-tui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 5 | 2 | 1 | 1 | 6 |
-| last60d | 2026-07-30 | 0 | 9 | 2 | 2 | 1 | 9 |
-| 90d | 2026-06-30 | 0 | 13 | 5 | 2 | 4 | 13 |
-| last180d | 2026-04-01 | 5 | 38 | 8 | 5 | 13 | 30 |
-| 360d | 2025-10-03 | 10 | 98 | 10 | 12 | 23 | 101 |
-| last720d | 2024-10-08 | 10 | 106 | 11 | 16 | 42 | 121 |
+| 30d | 2026-08-30 | 0 | 5 | 2 | 1 | 1 | 6 |
+| last60d | 2026-07-31 | 0 | 9 | 2 | 2 | 1 | 9 |
+| 90d | 2026-07-01 | 0 | 13 | 5 | 2 | 4 | 13 |
+| last180d | 2026-04-02 | 4 | 32 | 8 | 4 | 13 | 30 |
+| 360d | 2025-10-04 | 10 | 98 | 10 | 12 | 23 | 101 |
+| last720d | 2024-10-09 | 10 | 106 | 11 | 16 | 42 | 121 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ taskwarrior-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:52:28Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:12:20Z._
