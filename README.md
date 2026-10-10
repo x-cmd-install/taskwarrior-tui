@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 5 | 3 | 0 | 1 | 6 |
-| last60d | 2026-08-10 | 0 | 7 | 3 | 2 | 1 | 7 |
-| 90d | 2026-07-11 | 0 | 13 | 3 | 2 | 1 | 13 |
-| last180d | 2026-04-12 | 0 | 20 | 8 | 2 | 10 | 17 |
-| 360d | 2025-10-14 | 10 | 98 | 11 | 11 | 23 | 101 |
-| last720d | 2024-10-19 | 10 | 106 | 12 | 16 | 42 | 121 |
+| 30d | 2026-09-10 | 0 | 4 | 3 | 0 | 1 | 6 |
+| last60d | 2026-08-11 | 0 | 7 | 3 | 2 | 1 | 7 |
+| 90d | 2026-07-12 | 0 | 11 | 3 | 2 | 1 | 13 |
+| last180d | 2026-04-13 | 0 | 17 | 8 | 2 | 9 | 17 |
+| 360d | 2025-10-15 | 10 | 98 | 11 | 11 | 23 | 101 |
+| last720d | 2024-10-20 | 10 | 106 | 12 | 16 | 42 | 121 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:37:45Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:18:42Z._
