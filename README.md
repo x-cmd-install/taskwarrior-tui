@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.0` (2026-04-09)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-25
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 172 · **Merged PRs**: 381 · **Open PRs**: 13 · **Closed issues**: 226 · **Open issues**: 118 · **Commits**: 1560
+- **Releases**: 172 · **Merged PRs**: 382 · **Open PRs**: 12 · **Closed issues**: 226 · **Open issues**: 118 · **Commits**: 1561
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 2 | 3 | 0 | 0 | 2 |
-| last60d | 2026-08-26 | 0 | 8 | 3 | 1 | 1 | 8 |
-| 90d | 2026-07-27 | 0 | 11 | 3 | 2 | 1 | 11 |
-| last180d | 2026-04-28 | 0 | 18 | 8 | 2 | 9 | 17 |
-| 360d | 2025-10-30 | 9 | 100 | 11 | 12 | 20 | 102 |
-| last720d | 2024-11-04 | 10 | 107 | 12 | 17 | 40 | 123 |
+| 30d | 2026-09-26 | 0 | 3 | 2 | 0 | 0 | 3 |
+| last60d | 2026-08-27 | 0 | 9 | 2 | 1 | 1 | 9 |
+| 90d | 2026-07-28 | 0 | 12 | 2 | 2 | 1 | 12 |
+| last180d | 2026-04-29 | 0 | 19 | 7 | 2 | 9 | 18 |
+| 360d | 2025-10-31 | 9 | 101 | 10 | 12 | 20 | 103 |
+| last720d | 2024-11-05 | 10 | 108 | 11 | 17 | 40 | 124 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:00:20Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:12:24Z._
