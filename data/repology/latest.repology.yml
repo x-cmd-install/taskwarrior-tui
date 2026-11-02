@@ -113,17 +113,6 @@
   summary: A terminal user interface for taskwarrior
   licenses:
     - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: taskwarrior-tui
-  binname: taskwarrior-tui
-  visiblename: taskwarrior-tui
-  version: 0.27.0
-  origversion: 0.27.0-1
-  status: newest
-  summary: A terminal user interface for taskwarrior
-  licenses:
-    - MIT
 - repo: aur
   srcname: taskwarrior-tui-git
   binname: taskwarrior-tui-git
@@ -184,9 +173,9 @@
   srcname: taskwarrior-tui
   binname: taskwarrior-tui
   visiblename: taskwarrior-tui
-  version: 0.27.0
-  origversion: 0.27.0-1
-  status: newest
+  version: 0.25.4
+  origversion: 0.25.4-1
+  status: outdated
   summary: A terminal user interface for taskwarrior
   licenses:
     - MIT
@@ -195,9 +184,9 @@
   srcname: taskwarrior-tui
   binname: taskwarrior-tui
   visiblename: taskwarrior-tui
-  version: 0.27.0
-  origversion: 0.27.0-1
-  status: newest
+  version: 0.25.4
+  origversion: 0.25.4-1
+  status: outdated
   summary: A terminal user interface for taskwarrior
   licenses:
     - MIT
@@ -276,6 +265,17 @@
   summary: Terminal user interface for taskwarrior
   maintainers:
     - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: taskwarrior-tui
+  binname: taskwarrior-tui
+  visiblename: taskwarrior-tui
+  version: 0.27.0
+  origversion: 0.27.0-1
+  status: newest
+  summary: A terminal user interface for taskwarrior
   licenses:
     - MIT
 - repo: void_x86_64
