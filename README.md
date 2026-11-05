@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,155 · **Forks**: 117 · **Open issues**: 344 · **Contributors**: 46
+- **Stars**: 2,156 · **Forks**: 117 · **Open issues**: 344 · **Contributors**: 46
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 4 | 1 | 0 | 0 | 4 |
-| last60d | 2026-09-05 | 0 | 9 | 2 | 1 | 1 | 10 |
-| 90d | 2026-08-06 | 0 | 13 | 2 | 2 | 1 | 11 |
-| last180d | 2026-05-08 | 0 | 19 | 7 | 2 | 8 | 19 |
-| 360d | 2025-11-09 | 9 | 100 | 8 | 12 | 20 | 103 |
-| last720d | 2024-11-14 | 10 | 107 | 9 | 17 | 36 | 115 |
+| 30d | 2026-10-06 | 0 | 4 | 1 | 0 | 0 | 4 |
+| last60d | 2026-09-06 | 0 | 9 | 2 | 1 | 1 | 10 |
+| 90d | 2026-08-07 | 0 | 13 | 2 | 2 | 1 | 11 |
+| last180d | 2026-05-09 | 0 | 19 | 7 | 2 | 8 | 19 |
+| 360d | 2025-11-10 | 9 | 100 | 8 | 11 | 20 | 103 |
+| last720d | 2024-11-15 | 10 | 107 | 9 | 17 | 36 | 112 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:44:53Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:13:11Z._
