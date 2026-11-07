@@ -1,25 +1,10 @@
-- repo: manjaro_testing
-  subrepo: extra
+- repo: homebrew
   srcname: taskwarrior-tui
-  binname: taskwarrior-tui
   visiblename: taskwarrior-tui
-  version: 0.25.4
-  origversion: 0.25.4-1
-  status: outdated
-  summary: A terminal user interface for taskwarrior
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: taskwarrior-tui
-  binname: taskwarrior-tui
-  visiblename: taskwarrior-tui
-  version: 0.27.0
-  origversion: 0.27.0-1
-  status: newest
-  summary: A terminal user interface for taskwarrior
-  licenses:
-    - MIT
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal user interface for taskwarrior
 - repo: alpine_3_24
   subrepo: community
   srcname: taskwarrior-tui
@@ -167,13 +152,6 @@
   origversion: null
   status: newest
   summary: Terminal user interface for taskwarrior
-- repo: homebrew
-  srcname: taskwarrior-tui
-  visiblename: taskwarrior-tui
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Terminal user interface for taskwarrior
 - repo: macports
   srcname: office/taskwarrior-tui
   binname: taskwarrior-tui
@@ -195,9 +173,31 @@
   srcname: taskwarrior-tui
   binname: taskwarrior-tui
   visiblename: taskwarrior-tui
-  version: 0.25.4
-  origversion: 0.25.4-1
-  status: outdated
+  version: 0.27.0
+  origversion: 0.27.0-1
+  status: newest
+  summary: A terminal user interface for taskwarrior
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: taskwarrior-tui
+  binname: taskwarrior-tui
+  visiblename: taskwarrior-tui
+  version: 0.27.0
+  origversion: 0.27.0-1
+  status: newest
+  summary: A terminal user interface for taskwarrior
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: taskwarrior-tui
+  binname: taskwarrior-tui
+  visiblename: taskwarrior-tui
+  version: 0.27.0
+  origversion: 0.27.0-1
+  status: newest
   summary: A terminal user interface for taskwarrior
   licenses:
     - MIT
