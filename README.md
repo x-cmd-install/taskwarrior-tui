@@ -14,11 +14,11 @@ x install taskwarrior-tui
 
 ## Code insight
 
-Total: **17,433** lines of code across **29** files in the top 5 languages.
+Total: **17,180** lines of code across **28** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,380 | 130 | 796 | 22 |
+| Rust | 10,127 | 139 | 759 | 21 |
 | Json | 6,787 | 0 | 0 | 3 |
 | Bash | 75 | 0 | 3 | 1 |
 | Toml | 54 | 0 | 7 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.0` (2026-04-09)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-08
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 2,156 · **Forks**: 117 · **Open issues**: 344 · **Contributors**: 46
+- **Stars**: 2,156 · **Forks**: 117 · **Open issues**: 344 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 172 · **Merged PRs**: 383 · **Open PRs**: 10 · **Closed issues**: 226 · **Open issues**: 118 · **Commits**: 1562
+- **Releases**: 172 · **Merged PRs**: 384 · **Open PRs**: 8 · **Closed issues**: 229 · **Open issues**: 115 · **Commits**: 1572
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 4 | 1 | 0 | 0 | 4 |
-| last60d | 2026-09-08 | 0 | 9 | 2 | 0 | 1 | 10 |
-| 90d | 2026-08-09 | 0 | 11 | 2 | 2 | 1 | 11 |
-| last180d | 2026-05-11 | 0 | 19 | 7 | 2 | 8 | 19 |
-| 360d | 2025-11-12 | 9 | 100 | 8 | 11 | 20 | 103 |
-| last720d | 2024-11-17 | 10 | 107 | 9 | 17 | 36 | 112 |
+| 30d | 2026-10-09 | 0 | 4 | 0 | 0 | 0 | 12 |
+| last60d | 2026-09-09 | 0 | 10 | 0 | 0 | 1 | 17 |
+| 90d | 2026-08-10 | 0 | 12 | 0 | 2 | 1 | 21 |
+| last180d | 2026-05-12 | 0 | 20 | 5 | 3 | 7 | 28 |
+| 360d | 2025-11-13 | 9 | 101 | 6 | 12 | 19 | 113 |
+| last720d | 2024-11-18 | 10 | 108 | 7 | 19 | 34 | 122 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:22:12Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:25:16Z._
