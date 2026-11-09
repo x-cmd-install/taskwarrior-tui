@@ -14,11 +14,11 @@ x install taskwarrior-tui
 
 ## Code insight
 
-Total: **17,180** lines of code across **28** files in the top 5 languages.
+Total: **15,013** lines of code across **28** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,127 | 139 | 759 | 21 |
+| Rust | 7,960 | 2,597 | 747 | 21 |
 | Json | 6,787 | 0 | 0 | 3 |
 | Bash | 75 | 0 | 3 | 1 |
 | Toml | 54 | 0 | 7 | 2 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 172 · **Merged PRs**: 384 · **Open PRs**: 8 · **Closed issues**: 229 · **Open issues**: 115 · **Commits**: 1572
+- **Releases**: 172 · **Merged PRs**: 384 · **Open PRs**: 9 · **Closed issues**: 229 · **Open issues**: 115 · **Commits**: 1573
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 4 | 0 | 0 | 0 | 12 |
-| last60d | 2026-09-09 | 0 | 10 | 0 | 0 | 1 | 17 |
-| 90d | 2026-08-10 | 0 | 12 | 0 | 2 | 1 | 21 |
-| last180d | 2026-05-12 | 0 | 20 | 5 | 3 | 7 | 28 |
-| 360d | 2025-11-13 | 9 | 101 | 6 | 12 | 19 | 113 |
-| last720d | 2024-11-18 | 10 | 108 | 7 | 19 | 34 | 122 |
+| 30d | 2026-10-10 | 0 | 4 | 1 | 0 | 0 | 13 |
+| last60d | 2026-09-10 | 0 | 9 | 1 | 0 | 1 | 18 |
+| 90d | 2026-08-11 | 0 | 12 | 1 | 2 | 1 | 22 |
+| last180d | 2026-05-13 | 0 | 20 | 6 | 3 | 7 | 29 |
+| 360d | 2025-11-14 | 9 | 101 | 7 | 12 | 19 | 114 |
+| last720d | 2024-11-19 | 10 | 108 | 8 | 19 | 34 | 123 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:25:16Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:04:31Z._
