@@ -24,16 +24,6 @@ Total: **15,013** lines of code across **28** files in the top 5 languages.
 | Toml | 54 | 0 | 7 | 2 |
 | JavaScript | 40 | 0 | 1 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.1 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (4/10) — Found 5/12 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/kdheepak/taskwarrior-tui>
@@ -43,7 +33,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.0` (2026-04-09)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-09
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +42,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 172 · **Merged PRs**: 384 · **Open PRs**: 9 · **Closed issues**: 229 · **Open issues**: 115 · **Commits**: 1573
+- **Releases**: 172 · **Merged PRs**: 385 · **Open PRs**: 8 · **Closed issues**: 229 · **Open issues**: 115 · **Commits**: 1574
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 4 | 1 | 0 | 0 | 13 |
-| last60d | 2026-09-10 | 0 | 9 | 1 | 0 | 1 | 18 |
-| 90d | 2026-08-11 | 0 | 12 | 1 | 2 | 1 | 22 |
-| last180d | 2026-05-13 | 0 | 20 | 6 | 3 | 7 | 29 |
-| 360d | 2025-11-14 | 9 | 101 | 7 | 12 | 19 | 114 |
-| last720d | 2024-11-19 | 10 | 108 | 8 | 19 | 34 | 123 |
+| 30d | 2026-10-11 | 0 | 3 | 0 | 0 | 0 | 14 |
+| last60d | 2026-09-11 | 0 | 10 | 0 | 0 | 1 | 19 |
+| 90d | 2026-08-12 | 0 | 13 | 0 | 2 | 1 | 23 |
+| last180d | 2026-05-14 | 0 | 21 | 5 | 3 | 7 | 30 |
+| 360d | 2025-11-15 | 9 | 102 | 6 | 12 | 19 | 115 |
+| last720d | 2024-11-20 | 10 | 109 | 7 | 19 | 34 | 124 |
 
 ## Release assets
 
@@ -107,4 +97,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:04:31Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:48:52Z._
