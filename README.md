@@ -48,12 +48,12 @@ Total: **15,013** lines of code across **28** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 3 | 0 | 0 | 0 | 14 |
-| last60d | 2026-09-13 | 0 | 8 | 0 | 0 | 1 | 19 |
-| 90d | 2026-08-14 | 0 | 13 | 0 | 2 | 1 | 23 |
-| last180d | 2026-05-16 | 0 | 21 | 5 | 3 | 7 | 30 |
-| 360d | 2025-11-17 | 9 | 102 | 6 | 12 | 18 | 115 |
-| last720d | 2024-11-22 | 10 | 109 | 7 | 19 | 34 | 124 |
+| 30d | 2026-10-14 | 0 | 3 | 0 | 0 | 0 | 14 |
+| last60d | 2026-09-14 | 0 | 8 | 0 | 0 | 1 | 19 |
+| 90d | 2026-08-15 | 0 | 13 | 0 | 2 | 1 | 23 |
+| last180d | 2026-05-17 | 0 | 20 | 5 | 3 | 7 | 30 |
+| 360d | 2025-11-18 | 9 | 102 | 6 | 12 | 18 | 115 |
+| last720d | 2024-11-23 | 10 | 109 | 7 | 19 | 34 | 124 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:49:50Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:26:50Z._
