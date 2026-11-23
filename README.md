@@ -24,6 +24,16 @@ Total: **15,014** lines of code across **28** files in the top 5 languages.
 | Toml | 54 | 0 | 7 | 2 |
 | JavaScript | 40 | 0 | 1 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **4 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 4/14 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/kdheepak/taskwarrior-tui>
@@ -33,27 +43,27 @@ Total: **15,014** lines of code across **28** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.27.0` (2026-04-09)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-22
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 2,158 · **Forks**: 118 · **Open issues**: 344 · **Contributors**: 48
+- **Stars**: 2,158 · **Forks**: 118 · **Open issues**: 345 · **Contributors**: 48
 
 ## Totals (cumulative)
 
-- **Releases**: 172 · **Merged PRs**: 387 · **Open PRs**: 8 · **Closed issues**: 229 · **Open issues**: 115 · **Commits**: 1576
+- **Releases**: 172 · **Merged PRs**: 389 · **Open PRs**: 8 · **Closed issues**: 229 · **Open issues**: 116 · **Commits**: 1578
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 5 | 0 | 0 | 0 | 15 |
-| last60d | 2026-09-23 | 0 | 8 | 0 | 0 | 0 | 18 |
-| 90d | 2026-08-24 | 0 | 15 | 0 | 1 | 1 | 24 |
-| last180d | 2026-05-26 | 0 | 21 | 5 | 3 | 7 | 31 |
-| 360d | 2025-11-27 | 9 | 101 | 6 | 12 | 18 | 114 |
-| last720d | 2024-12-02 | 10 | 111 | 7 | 19 | 34 | 126 |
+| 30d | 2026-10-24 | 0 | 7 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-24 | 0 | 10 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-25 | 0 | 17 | 0 | 1 | 2 | 0 |
+| last180d | 2026-05-27 | 0 | 23 | 5 | 3 | 8 | 0 |
+| 360d | 2025-11-28 | 9 | 103 | 6 | 12 | 19 | 0 |
+| last720d | 2024-12-03 | 10 | 113 | 7 | 19 | 35 | 128 |
 
 ## Release assets
 
@@ -97,4 +107,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:57:44Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:58:50Z._
