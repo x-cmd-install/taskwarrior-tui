@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,158 · **Forks**: 118 · **Open issues**: 345 · **Contributors**: 48
+- **Stars**: 2,160 · **Forks**: 118 · **Open issues**: 345 · **Contributors**: 48
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 6 | 0 | 1 | 0 | 17 |
-| last60d | 2026-09-26 | 0 | 10 | 0 | 1 | 0 | 20 |
-| 90d | 2026-08-27 | 0 | 16 | 0 | 2 | 1 | 26 |
-| last180d | 2026-05-29 | 0 | 23 | 5 | 4 | 6 | 33 |
-| 360d | 2025-11-30 | 9 | 103 | 6 | 13 | 17 | 116 |
-| last720d | 2024-12-05 | 10 | 113 | 7 | 20 | 34 | 128 |
+| 30d | 2026-10-27 | 0 | 6 | 0 | 1 | 0 | 17 |
+| last60d | 2026-09-27 | 0 | 10 | 0 | 1 | 0 | 20 |
+| 90d | 2026-08-28 | 0 | 16 | 0 | 2 | 1 | 26 |
+| last180d | 2026-05-30 | 0 | 23 | 5 | 4 | 6 | 33 |
+| 360d | 2025-12-01 | 9 | 103 | 6 | 12 | 17 | 116 |
+| last720d | 2024-12-06 | 10 | 113 | 7 | 20 | 34 | 128 |
 
 ## Release assets
 
@@ -86,6 +86,18 @@ Lowest-scoring checks:
 | [taskwarrior-tui-x86_64-unknown-linux-musl.tar.gz](https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-x86_64-unknown-linux-musl.tar.gz) | 6.8 MiB | `native/linux/x64/musl` |
 | [taskwarrior-tui.deb](https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui.deb) | 4.6 MiB | `other` |
 
+## Distribution status
+
+Reported by **25** distros on [repology.org](https://repology.org/project/taskwarrior-tui). **14** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.27.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `0.27.0` | ✅ latest |
+| Void | `0.25.4` | ⚠️ outdated |
+| Alpine edge | `0.27.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `taskwarrior-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +107,4 @@ Install metadata for taskwarrior-tui lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:58:46Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:43:40Z._
